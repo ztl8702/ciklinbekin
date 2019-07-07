@@ -1,0 +1,8 @@
+title: 平話字表 (閩東語‣福州話)
+description: 爲便於查詢平話字音､ 使平話音輸入漢字, 故取讀音字表將其電子化｡ 同時生成HTML網頁和Rime輸入法碼表｡
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
